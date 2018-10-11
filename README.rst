@@ -996,6 +996,8 @@ PublicDomains
 * |OK_ICON| `Wikileaks 911 pager intercepts <https://911.wikileaks.org/files/index.html>`_
         
 * |OK_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_
+
+* |OK_ICON| `Grand Comics Database <https://www.comics.org/download>`_
     
 SearchEngines
 -------------
